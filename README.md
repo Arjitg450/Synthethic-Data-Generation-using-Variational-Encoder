@@ -1,0 +1,1 @@
+# Synthethic-Data-Generation-using-Variational-Encoder
